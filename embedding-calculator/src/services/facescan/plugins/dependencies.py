@@ -18,7 +18,7 @@ from src.constants import ENV
 from src.services.utils.pyutils import get_env
 
 
-def get_tensorflow(version='2.2.0') -> Tuple[str, ...]:
+def get_tensorflow(version='2.12.0') -> Tuple[str, ...]:
     return tuple([f'tensorflow=={version}'])
 
 

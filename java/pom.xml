@@ -36,7 +36,7 @@
 
         <mapstruct.version>1.5.2.Final</mapstruct.version>
         <lombok.version>1.18.20</lombok.version>
-        <swagger.version>2.9.2</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <io.jsonwebtoken.version>0.11.2</io.jsonwebtoken.version>
         <feign-form.version>3.8.0</feign-form.version>
         <feign-core.version>11.8</feign-core.version>
